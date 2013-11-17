@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{6870E480-7721-4708-BFB8-9AE898AA21B3}") = "TabularProject1", "TabularProject1\TabularProject1.smproj", "{6E899F5B-A154-420B-9DC5-F1A668DF2282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|x86 = Development|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E899F5B-A154-420B-9DC5-F1A668DF2282}.Development|x86.ActiveCfg = Development|x86
+		{6E899F5B-A154-420B-9DC5-F1A668DF2282}.Development|x86.Build.0 = Development|x86
+		{6E899F5B-A154-420B-9DC5-F1A668DF2282}.Development|x86.Deploy.0 = Development|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
